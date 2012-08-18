@@ -3,7 +3,11 @@
 express with ejs templates example
 
 ## Getting Started
-Install the module with: `npm install express_ejs`
+```console
+git clone git://github.com/johnymonster/express_ejs.git
+npm install
+node app.js
+```
 
 ```javascript
 var express_ejs = require('express_ejs');
